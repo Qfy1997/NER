@@ -13,26 +13,26 @@ pip install numpy==1.24.4
 
 
 ## Performance
-GENIA: 
-Acc: 91.76% 
-Pre: 91.76% 
-Recall: 100%
-F1-score: 95.70%
+GENIA: <br>
+Acc: 91.76% <br>
+Pre: 91.76% <br>
+Recall: 100% <br>
+F1-score: 95.70% <br>
 
-Litbank: 
-Acc: 87.93% 
-Pre:87.93%
-Recall:100%
-F1-score:93.58%
+Litbank: <br>
+Acc: 87.93% <br>
+Pre:87.93% <br>
+Recall:100% <br>
+F1-score:93.58% <br>
 
-CADEC: 
-Acc:88.87% 
-Pre:89.05
-Recall:88.09% 
-F1-score:88.57%
+CADEC: <br>
+Acc:88.87% <br>
+Pre:89.05 <br>
+Recall:88.09% <br>
+F1-score:88.57% <br>
 
-MSRA: 
-Acc: 86.87%
-Pre: 96.87%
-Recall: 100%
-F1-score: 98.41%
+MSRA: <br>
+Acc: 86.87% <br>
+Pre: 96.87% <br>
+Recall: 100% <br>
+F1-score: 98.41% <br>
