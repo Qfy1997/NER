@@ -32,7 +32,7 @@ Recall:88.09% <br>
 F1-score:88.57% <br>
 
 MSRA: <br>
-Acc: 86.87% <br>
+Acc: $\frac{5988}{6181}$ <br>
 Pre: 96.87% <br>
 Recall: 100% <br>
 F1-score: 98.41% <br>
